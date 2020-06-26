@@ -1,0 +1,6 @@
+Git clone link=clone về máy
+Git status= Trạng thái
+Git add namefile=upload code lên github
+Git add *  =Upload tất cả code lên github(kệ cả file vừa xóa)
+Git add --all = Uploat tất cả code lên github(không tính file vừa xóa).
+Git commit -m " CHu thich" = CHú thích (tin nhan)
